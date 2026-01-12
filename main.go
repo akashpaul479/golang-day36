@@ -1,7 +1,7 @@
 package main
 
 import (
-	"dictionaryapi/golang-day36/locationapi"
+	"dictionaryapi/locationapi"
 )
 
 func main() {
